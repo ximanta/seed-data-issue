@@ -1,0 +1,8 @@
+guru\springframework\beerservice\repositories\BeerRepository.class
+guru\springframework\beerservice\web\model\BeerDto.class
+guru\springframework\beerservice\domain\Beer.class
+guru\springframework\beerservice\web\model\BeerDto$BeerDtoBuilder.class
+guru\springframework\beerservice\bootstrap\BeerLoader.class
+guru\springframework\beerservice\web\model\BeerStyleEnum.class
+guru\springframework\beerservice\BeerServiceApplication.class
+guru\springframework\beerservice\domain\Beer$BeerBuilder.class
